@@ -63,7 +63,7 @@
 
 克隆远程库
 ```
-git clone https://github.com/wangzhongjie/BlogCms.git
+git clone https://github.com/prm612/-nodeJS-vue-.git
 ```
 进入项目目录
 ```
