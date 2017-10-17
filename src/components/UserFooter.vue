@@ -1,7 +1,7 @@
 <template>
     <div>
         <footer class="blog-footer">
-            <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+            <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="">@prm612</a></p>
             <router-link class="login" to="/login">用户登陆</router-link>
             <router-link class="login" to="/reg">用户注册</router-link>
             <p>

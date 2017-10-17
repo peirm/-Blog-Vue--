@@ -42,7 +42,7 @@ export default{
                     console.log('注册成功');
                     this.$router.push('/login');
                 }else{
-                    console.log('注册失败')
+                    console.log('注册失败');
                 }
             },function(res){
                 console.log('注册失败，未通过服务端校验'+ res.status);

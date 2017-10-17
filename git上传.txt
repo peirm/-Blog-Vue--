@@ -1,0 +1,9 @@
+1. git init
+2. git commit -m "first commit"
+3. git remote add origin https://github.com/prm612/-Blog-Vue--.git
+4. git push -u origin master
+
+如果第三步报错可以先删除远程库：
+删除远程 Git 仓库
+$ git remote rm origin
+再重新执行

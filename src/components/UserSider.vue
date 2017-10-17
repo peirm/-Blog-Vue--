@@ -13,9 +13,9 @@
             <div class="sidebar-module">
                 <h4>Elsewhere</h4>
                 <ol class="list-unstyled">
-                    <li><a href="https://github.com/wangzhongjie/">GitHub</a></li>
-                    <li><a href="https://twitter.com/wzjcool">Twitter</a></li>
-                    <li><a href="https://www.facebook.com/wang.zhonjie">Facebook</a></li>
+                    <li><a href="https://github.com/prm612/-Blog-Vue--.git">GitHub</a></li>
+                    <li><a href="https://twitter.com/">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/">Facebook</a></li>
                 </ol>
             </div>
         </div><!-- /.blog-sidebar -->
